@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-facc15?style=flat-square&labelColor=000)](LICENSE)
 [![Built on Stellar](https://img.shields.io/badge/Built%20on-Stellar-facc15?style=flat-square&labelColor=000&logo=stellar&logoColor=white)](https://stellar.org)
 [![Soroban](https://img.shields.io/badge/Contracts-Soroban-facc15?style=flat-square&labelColor=000)](https://soroban.stellar.org)
-[![Issues](https://img.shields.io/github/issues/LFGBanditLabs/Quipay?style=flat-square&labelColor=000&color=facc15)](https://github.com/LFGBanditLabs/Quipay/issues)
+[![Issues](https://img.shields.io/github/issues/core-quipay/quipay-frontend?style=flat-square&labelColor=000&color=facc15)](https://github.com/core-quipay/quipay-frontend/issues)
 
 [Overview](#overview) · [Features](#features) · [Architecture](#architecture) · [Quick Start](#quick-start) · [Contributing](#contributing)
 
@@ -101,8 +101,8 @@ Employer deposits → Stream contract → Worker withdraws anytime
 
 ```bash
 # Clone
-git clone --depth 1 https://github.com/LFGBanditLabs/Quipay.git
-cd Quipay
+git clone --depth 1 https://github.com/core-quipay/quipay-frontend.git
+cd quipay-frontend
 
 # Install dependencies
 npm install
@@ -205,7 +205,7 @@ Found a vulnerability? See [SECURITY.md](SECURITY.md). Full analysis in the [Sec
 | **Phase 3** | Compliance, reporting, payslips      | Q3 2026 | 📋 Planned     |
 | **Phase 4** | Enterprise features + security audit | Q4 2026 | 📋 Planned     |
 
-Track progress on the [GitHub Issues board](https://github.com/LFGBanditLabs/Quipay/issues).
+Track progress on the [GitHub Issues board](https://github.com/core-quipay/quipay-frontend/issues).
 
 ---
 
@@ -220,9 +220,9 @@ git checkout -b feat/your-feature
 # Make changes, then open a PR against main
 ```
 
-- 🐛 [Report a bug](https://github.com/LFGBanditLabs/Quipay/issues/new?template=bug_report.md)
-- 💡 [Request a feature](https://github.com/LFGBanditLabs/Quipay/issues/new?template=feature_request.md)
-- 💻 [Good first issues](https://github.com/LFGBanditLabs/Quipay/labels/good%20first%20issue)
+- 🐛 [Report a bug](https://github.com/core-quipay/quipay-frontend/issues/new?template=bug_report.md)
+- 💡 [Request a feature](https://github.com/core-quipay/quipay-frontend/issues/new?template=feature_request.md)
+- 💻 [Good first issues](https://github.com/core-quipay/quipay-frontend/labels/good%20first%20issue)
 
 Read the [Contributing Guide](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) before opening a PR.
 
@@ -251,7 +251,7 @@ Apache 2.0 — see [LICENSE](LICENSE) for details.
   <sub>Built on Stellar · Open Source · Non-custodial</sub>
   <br/><br/>
 
-[![Stars](https://img.shields.io/github/stars/LFGBanditLabs/Quipay?style=flat-square&labelColor=000&color=facc15)](https://github.com/LFGBanditLabs/Quipay/stargazers)
-[![Forks](https://img.shields.io/github/forks/LFGBanditLabs/Quipay?style=flat-square&labelColor=000&color=facc15)](https://github.com/LFGBanditLabs/Quipay/network/members)
+[![Stars](https://img.shields.io/github/stars/core-quipay/quipay-frontend?style=flat-square&labelColor=000&color=facc15)](https://github.com/core-quipay/quipay-frontend/stargazers)
+[![Forks](https://img.shields.io/github/forks/core-quipay/quipay-frontend?style=flat-square&labelColor=000&color=facc15)](https://github.com/core-quipay/quipay-frontend/network/members)
 
 </div>
